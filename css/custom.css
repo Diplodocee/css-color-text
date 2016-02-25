@@ -3,6 +3,17 @@
 
 /*insert custom css below*/
 
+body {
+  background-color:#F30;
+  padding: 0 1rem;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #606c71;
+  text-align: center;
+}
+
 .container {
   max-width: 600px;
   min-height: 800px;
@@ -12,4 +23,7 @@
   padding: 1rem 2rem;
   text-align: left;
   background-color: #eee;
+}
+.container section {
+  background-color: #606c71;
 }
