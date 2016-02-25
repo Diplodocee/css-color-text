@@ -24,6 +24,10 @@ body {
   text-align: left;
   background-color: #eee;
 }
+
+section {
+    margin: 3em 0;
+}
 .container section {
   background-color: #606c71;
 }
