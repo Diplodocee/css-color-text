@@ -4,8 +4,7 @@
 /*insert custom css below*/
 
 body {
-  background-image: url("https://www.planwallpaper.com/static/images/Winter-Tiger-Wild-Cat-Images.jpg");
-  background-color: green;
+  background-color: #222;
   padding: 0 1rem;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -29,12 +28,10 @@ body {
 section {
     margin: 3em 0;
 }
-.container section {
-  background-color: #606c71;
-}
 
 .box {
-  border: 1px solid green;
+  max-width: 500px;
+  border: 1px solid #00066;
 }
 a:hover{
   background-color: #F30;}
