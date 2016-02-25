@@ -27,3 +27,5 @@ body {
 .container section {
   background-color: #606c71;
 }
+a:hover{
+  background-color: #F30;}
